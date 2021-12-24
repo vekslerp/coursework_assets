@@ -1,0 +1,2096 @@
+[
+  {
+    "date": "2021-01-01",
+    "price": 0.00471,
+    "market_cap": 597887561,
+    "total_volume": 127614764
+  },
+  {
+    "date": "2021-01-02",
+    "price": 0.00554,
+    "market_cap": 707576208,
+    "total_volume": 244607104
+  },
+  {
+    "date": "2021-01-03",
+    "price": 0.0106,
+    "market_cap": 1354819957,
+    "total_volume": 3117161274
+  },
+  {
+    "date": "2021-01-04",
+    "price": 0.01009,
+    "market_cap": 1288354839,
+    "total_volume": 2306838511
+  },
+  {
+    "date": "2021-01-05",
+    "price": 0.00959,
+    "market_cap": 1226307420,
+    "total_volume": 1238833461
+  },
+  {
+    "date": "2021-01-06",
+    "price": 0.00984,
+    "market_cap": 1257877104,
+    "total_volume": 643097358
+  },
+  {
+    "date": "2021-01-07",
+    "price": 0.01046,
+    "market_cap": 1331066851,
+    "total_volume": 699719978
+  },
+  {
+    "date": "2021-01-08",
+    "price": 0.00978,
+    "market_cap": 1249855747,
+    "total_volume": 505843513
+  },
+  {
+    "date": "2021-01-09",
+    "price": 0.00989,
+    "market_cap": 1264295436,
+    "total_volume": 423947677
+  },
+  {
+    "date": "2021-01-10",
+    "price": 0.01022,
+    "market_cap": 1306799491,
+    "total_volume": 483402082
+  },
+  {
+    "date": "2021-01-11",
+    "price": 0.00988,
+    "market_cap": 1263664503,
+    "total_volume": 430989179
+  },
+  {
+    "date": "2021-01-12",
+    "price": 0.00886,
+    "market_cap": 1132719254,
+    "total_volume": 561767457
+  },
+  {
+    "date": "2021-01-13",
+    "price": 0.00807,
+    "market_cap": 1022224681,
+    "total_volume": 343428361
+  },
+  {
+    "date": "2021-01-14",
+    "price": 0.00865,
+    "market_cap": 1106626599,
+    "total_volume": 279274227
+  },
+  {
+    "date": "2021-01-15",
+    "price": 0.00947,
+    "market_cap": 1211261062,
+    "total_volume": 475592505
+  },
+  {
+    "date": "2021-01-16",
+    "price": 0.00933,
+    "market_cap": 1193371730,
+    "total_volume": 443710336
+  },
+  {
+    "date": "2021-01-17",
+    "price": 0.00926,
+    "market_cap": 1185636962,
+    "total_volume": 358598771
+  },
+  {
+    "date": "2021-01-18",
+    "price": 0.00903,
+    "market_cap": 1155387089,
+    "total_volume": 331381093
+  },
+  {
+    "date": "2021-01-19",
+    "price": 0.00916,
+    "market_cap": 1180603793,
+    "total_volume": 292476114
+  },
+  {
+    "date": "2021-01-20",
+    "price": 0.00905,
+    "market_cap": 1158893557,
+    "total_volume": 325744396
+  },
+  {
+    "date": "2021-01-21",
+    "price": 0.00905,
+    "market_cap": 1158148987,
+    "total_volume": 313732430
+  },
+  {
+    "date": "2021-01-22",
+    "price": 0.00816,
+    "market_cap": 1044842778,
+    "total_volume": 297156190
+  },
+  {
+    "date": "2021-01-23",
+    "price": 0.00852,
+    "market_cap": 1087438950,
+    "total_volume": 293811760
+  },
+  {
+    "date": "2021-01-24",
+    "price": 0.00857,
+    "market_cap": 1098138944,
+    "total_volume": 264407166
+  },
+  {
+    "date": "2021-01-25",
+    "price": 0.00873,
+    "market_cap": 1118023170,
+    "total_volume": 255272294
+  },
+  {
+    "date": "2021-01-26",
+    "price": 0.00837,
+    "market_cap": 1072613320,
+    "total_volume": 236268071
+  },
+  {
+    "date": "2021-01-27",
+    "price": 0.00828,
+    "market_cap": 1053619539,
+    "total_volume": 211765469
+  },
+  {
+    "date": "2021-01-28",
+    "price": 0.00744,
+    "market_cap": 948845594,
+    "total_volume": 221445010
+  },
+  {
+    "date": "2021-01-29",
+    "price": 0.03264,
+    "market_cap": 4182699293,
+    "total_volume": 14941040932
+  },
+  {
+    "date": "2021-01-30",
+    "price": 0.04735,
+    "market_cap": 6067971852,
+    "total_volume": 21756143388
+  },
+  {
+    "date": "2021-01-31",
+    "price": 0.02852,
+    "market_cap": 3654877537,
+    "total_volume": 7417688491
+  },
+  {
+    "date": "2021-02-01",
+    "price": 0.03799,
+    "market_cap": 4920829029,
+    "total_volume": 7755101292
+  },
+  {
+    "date": "2021-02-02",
+    "price": 0.03459,
+    "market_cap": 4433684616,
+    "total_volume": 4656523409
+  },
+  {
+    "date": "2021-02-03",
+    "price": 0.03162,
+    "market_cap": 4054295192,
+    "total_volume": 2444614955
+  },
+  {
+    "date": "2021-02-04",
+    "price": 0.03738,
+    "market_cap": 4699500064,
+    "total_volume": 2696782678
+  },
+  {
+    "date": "2021-02-05",
+    "price": 0.05428,
+    "market_cap": 6810395814,
+    "total_volume": 12004482930
+  },
+  {
+    "date": "2021-02-06",
+    "price": 0.04706,
+    "market_cap": 6033220883,
+    "total_volume": 5160805641
+  },
+  {
+    "date": "2021-02-07",
+    "price": 0.05788,
+    "market_cap": 7271788224,
+    "total_volume": 5679785681
+  },
+  {
+    "date": "2021-02-08",
+    "price": 0.07908,
+    "market_cap": 10271067765,
+    "total_volume": 13793129135
+  },
+  {
+    "date": "2021-02-09",
+    "price": 0.07923,
+    "market_cap": 10164021993,
+    "total_volume": 10823807112
+  },
+  {
+    "date": "2021-02-10",
+    "price": 0.06998,
+    "market_cap": 8978311026,
+    "total_volume": 6181134723
+  },
+  {
+    "date": "2021-02-11",
+    "price": 0.07299,
+    "market_cap": 9381046299,
+    "total_volume": 6304018582
+  },
+  {
+    "date": "2021-02-12",
+    "price": 0.06975,
+    "market_cap": 8951728841,
+    "total_volume": 3377206172
+  },
+  {
+    "date": "2021-02-13",
+    "price": 0.06947,
+    "market_cap": 8937647951,
+    "total_volume": 3548414349
+  },
+  {
+    "date": "2021-02-14",
+    "price": 0.06687,
+    "market_cap": 8583843026,
+    "total_volume": 2275047526
+  },
+  {
+    "date": "2021-02-15",
+    "price": 0.06203,
+    "market_cap": 7963525499,
+    "total_volume": 3318277601
+  },
+  {
+    "date": "2021-02-16",
+    "price": 0.05691,
+    "market_cap": 7306725578,
+    "total_volume": 4042454025
+  },
+  {
+    "date": "2021-02-17",
+    "price": 0.05408,
+    "market_cap": 6943871271,
+    "total_volume": 2717472447
+  },
+  {
+    "date": "2021-02-18",
+    "price": 0.04914,
+    "market_cap": 6256910636,
+    "total_volume": 2259698808
+  },
+  {
+    "date": "2021-02-19",
+    "price": 0.06019,
+    "market_cap": 7729583761,
+    "total_volume": 4660795048
+  },
+  {
+    "date": "2021-02-20",
+    "price": 0.0555,
+    "market_cap": 7128326860,
+    "total_volume": 3048336602
+  },
+  {
+    "date": "2021-02-21",
+    "price": 0.05513,
+    "market_cap": 7082310130,
+    "total_volume": 3342539176
+  },
+  {
+    "date": "2021-02-22",
+    "price": 0.05661,
+    "market_cap": 7345301352,
+    "total_volume": 2723241990
+  },
+  {
+    "date": "2021-02-23",
+    "price": 0.05353,
+    "market_cap": 6873239455,
+    "total_volume": 3430333609
+  },
+  {
+    "date": "2021-02-24",
+    "price": 0.0475,
+    "market_cap": 6103500677,
+    "total_volume": 2366851289
+  },
+  {
+    "date": "2021-02-25",
+    "price": 0.05706,
+    "market_cap": 7332961501,
+    "total_volume": 4399443853
+  },
+  {
+    "date": "2021-02-26",
+    "price": 0.05022,
+    "market_cap": 6454021312,
+    "total_volume": 2469967978
+  },
+  {
+    "date": "2021-02-27",
+    "price": 0.05054,
+    "market_cap": 6487737134,
+    "total_volume": 1862673178
+  },
+  {
+    "date": "2021-02-28",
+    "price": 0.05087,
+    "market_cap": 6538921364,
+    "total_volume": 1478258322
+  },
+  {
+    "date": "2021-03-01",
+    "price": 0.04824,
+    "market_cap": 6201387147,
+    "total_volume": 1576893241
+  },
+  {
+    "date": "2021-03-02",
+    "price": 0.05102,
+    "market_cap": 6561571713,
+    "total_volume": 1652399316
+  },
+  {
+    "date": "2021-03-03",
+    "price": 0.05057,
+    "market_cap": 6517554438,
+    "total_volume": 1424572957
+  },
+  {
+    "date": "2021-03-04",
+    "price": 0.05075,
+    "market_cap": 6527074840,
+    "total_volume": 1233795414
+  },
+  {
+    "date": "2021-03-05",
+    "price": 0.05014,
+    "market_cap": 6449361941,
+    "total_volume": 1337710788
+  },
+  {
+    "date": "2021-03-06",
+    "price": 0.04992,
+    "market_cap": 6421657994,
+    "total_volume": 1358502536
+  },
+  {
+    "date": "2021-03-07",
+    "price": 0.05088,
+    "market_cap": 6545855781,
+    "total_volume": 1561141044
+  },
+  {
+    "date": "2021-03-08",
+    "price": 0.05184,
+    "market_cap": 6657773356,
+    "total_volume": 1014195811
+  },
+  {
+    "date": "2021-03-09",
+    "price": 0.06168,
+    "market_cap": 7776184983,
+    "total_volume": 3627421089
+  },
+  {
+    "date": "2021-03-10",
+    "price": 0.05787,
+    "market_cap": 7446831675,
+    "total_volume": 2529486918
+  },
+  {
+    "date": "2021-03-11",
+    "price": 0.0562,
+    "market_cap": 7232723297,
+    "total_volume": 1677010512
+  },
+  {
+    "date": "2021-03-12",
+    "price": 0.05595,
+    "market_cap": 7201587925,
+    "total_volume": 1390253343
+  },
+  {
+    "date": "2021-03-13",
+    "price": 0.05511,
+    "market_cap": 7094349921,
+    "total_volume": 1349377295
+  },
+  {
+    "date": "2021-03-14",
+    "price": 0.06193,
+    "market_cap": 7750447457,
+    "total_volume": 1908931774
+  },
+  {
+    "date": "2021-03-15",
+    "price": 0.05883,
+    "market_cap": 7610317578,
+    "total_volume": 2759123152
+  },
+  {
+    "date": "2021-03-16",
+    "price": 0.05688,
+    "market_cap": 7324737827,
+    "total_volume": 1743281980
+  },
+  {
+    "date": "2021-03-17",
+    "price": 0.05867,
+    "market_cap": 7556337742,
+    "total_volume": 1451939103
+  },
+  {
+    "date": "2021-03-18",
+    "price": 0.05837,
+    "market_cap": 7517749273,
+    "total_volume": 989940709
+  },
+  {
+    "date": "2021-03-19",
+    "price": 0.05764,
+    "market_cap": 7429523848,
+    "total_volume": 990194954
+  },
+  {
+    "date": "2021-03-20",
+    "price": 0.05844,
+    "market_cap": 7528469477,
+    "total_volume": 1081897762
+  },
+  {
+    "date": "2021-03-21",
+    "price": 0.05916,
+    "market_cap": 7634534868,
+    "total_volume": 1130635906
+  },
+  {
+    "date": "2021-03-22",
+    "price": 0.05738,
+    "market_cap": 7393832359,
+    "total_volume": 947849286
+  },
+  {
+    "date": "2021-03-23",
+    "price": 0.05559,
+    "market_cap": 7186846706,
+    "total_volume": 895730940
+  },
+  {
+    "date": "2021-03-24",
+    "price": 0.05377,
+    "market_cap": 6929411776,
+    "total_volume": 995604161
+  },
+  {
+    "date": "2021-03-25",
+    "price": 0.0518,
+    "market_cap": 6729987270,
+    "total_volume": 1043427664
+  },
+  {
+    "date": "2021-03-26",
+    "price": 0.05101,
+    "market_cap": 6575327768,
+    "total_volume": 1229615851
+  },
+  {
+    "date": "2021-03-27",
+    "price": 0.05383,
+    "market_cap": 6940289325,
+    "total_volume": 834542001
+  },
+  {
+    "date": "2021-03-28",
+    "price": 0.05479,
+    "market_cap": 6962666598,
+    "total_volume": 1017584672
+  },
+  {
+    "date": "2021-03-29",
+    "price": 0.0544,
+    "market_cap": 7015286858,
+    "total_volume": 833678868
+  },
+  {
+    "date": "2021-03-30",
+    "price": 0.0549,
+    "market_cap": 7079729288,
+    "total_volume": 933464548
+  },
+  {
+    "date": "2021-03-31",
+    "price": 0.05465,
+    "market_cap": 7046811980,
+    "total_volume": 1141286834
+  },
+  {
+    "date": "2021-04-01",
+    "price": 0.05438,
+    "market_cap": 7014689873,
+    "total_volume": 1042337641
+  },
+  {
+    "date": "2021-04-02",
+    "price": 0.06159,
+    "market_cap": 7924888033,
+    "total_volume": 5955711022
+  },
+  {
+    "date": "2021-04-03",
+    "price": 0.05787,
+    "market_cap": 7507812668,
+    "total_volume": 2448301265
+  },
+  {
+    "date": "2021-04-04",
+    "price": 0.05619,
+    "market_cap": 7298466979,
+    "total_volume": 1457244564
+  },
+  {
+    "date": "2021-04-05",
+    "price": 0.0579,
+    "market_cap": 7463266116,
+    "total_volume": 1303803800
+  },
+  {
+    "date": "2021-04-06",
+    "price": 0.05982,
+    "market_cap": 7715037292,
+    "total_volume": 1822202973
+  },
+  {
+    "date": "2021-04-07",
+    "price": 0.06463,
+    "market_cap": 8342298640,
+    "total_volume": 2979685711
+  },
+  {
+    "date": "2021-04-08",
+    "price": 0.05896,
+    "market_cap": 7655108665,
+    "total_volume": 2977233569
+  },
+  {
+    "date": "2021-04-09",
+    "price": 0.06168,
+    "market_cap": 7962866152,
+    "total_volume": 1254061265
+  },
+  {
+    "date": "2021-04-10",
+    "price": 0.06154,
+    "market_cap": 7936596412,
+    "total_volume": 1235176274
+  },
+  {
+    "date": "2021-04-11",
+    "price": 0.06388,
+    "market_cap": 8249317321,
+    "total_volume": 1492859570
+  },
+  {
+    "date": "2021-04-12",
+    "price": 0.07465,
+    "market_cap": 9687276639,
+    "total_volume": 6594980841
+  },
+  {
+    "date": "2021-04-13",
+    "price": 0.07102,
+    "market_cap": 9196724800,
+    "total_volume": 2913823059
+  },
+  {
+    "date": "2021-04-14",
+    "price": 0.09378,
+    "market_cap": 12113258471,
+    "total_volume": 7372508507
+  },
+  {
+    "date": "2021-04-15",
+    "price": 0.12017,
+    "market_cap": 15701118351,
+    "total_volume": 19595646414
+  },
+  {
+    "date": "2021-04-16",
+    "price": 0.17986,
+    "market_cap": 22780764221,
+    "total_volume": 17675455194
+  },
+  {
+    "date": "2021-04-17",
+    "price": 0.37416,
+    "market_cap": 48767205447,
+    "total_volume": 50960650647
+  },
+  {
+    "date": "2021-04-18",
+    "price": 0.28511,
+    "market_cap": 37483584822,
+    "total_volume": 30301421158
+  },
+  {
+    "date": "2021-04-19",
+    "price": 0.32003,
+    "market_cap": 41360056945,
+    "total_volume": 23753545992
+  },
+  {
+    "date": "2021-04-20",
+    "price": 0.40941,
+    "market_cap": 53086953476,
+    "total_volume": 30847872454
+  },
+  {
+    "date": "2021-04-21",
+    "price": 0.3257,
+    "market_cap": 43064103591,
+    "total_volume": 28256320647
+  },
+  {
+    "date": "2021-04-22",
+    "price": 0.30841,
+    "market_cap": 39871679938,
+    "total_volume": 11245621591
+  },
+  {
+    "date": "2021-04-23",
+    "price": 0.26379,
+    "market_cap": 34105735063,
+    "total_volume": 12372638670
+  },
+  {
+    "date": "2021-04-24",
+    "price": 0.24926,
+    "market_cap": 32231128597,
+    "total_volume": 17283487906
+  },
+  {
+    "date": "2021-04-25",
+    "price": 0.27049,
+    "market_cap": 34979989822,
+    "total_volume": 10807971321
+  },
+  {
+    "date": "2021-04-26",
+    "price": 0.25254,
+    "market_cap": 33051358530,
+    "total_volume": 6742402257
+  },
+  {
+    "date": "2021-04-27",
+    "price": 0.27183,
+    "market_cap": 35161130279,
+    "total_volume": 6413613557
+  },
+  {
+    "date": "2021-04-28",
+    "price": 0.27173,
+    "market_cap": 35151669025,
+    "total_volume": 4324871047
+  },
+  {
+    "date": "2021-04-29",
+    "price": 0.32266,
+    "market_cap": 41743974978,
+    "total_volume": 15310415976
+  },
+  {
+    "date": "2021-04-30",
+    "price": 0.30625,
+    "market_cap": 39626179177,
+    "total_volume": 5635975307
+  },
+  {
+    "date": "2021-05-01",
+    "price": 0.33878,
+    "market_cap": 43856109573,
+    "total_volume": 5791678086
+  },
+  {
+    "date": "2021-05-02",
+    "price": 0.3934,
+    "market_cap": 50748955079,
+    "total_volume": 11619063047
+  },
+  {
+    "date": "2021-05-03",
+    "price": 0.37869,
+    "market_cap": 49014916719,
+    "total_volume": 9009865375
+  },
+  {
+    "date": "2021-05-04",
+    "price": 0.44141,
+    "market_cap": 57139646560,
+    "total_volume": 11357873988
+  },
+  {
+    "date": "2021-05-05",
+    "price": 0.54392,
+    "market_cap": 71252122862,
+    "total_volume": 39500407578
+  },
+  {
+    "date": "2021-05-06",
+    "price": 0.65533,
+    "market_cap": 84871718670,
+    "total_volume": 44644519734
+  },
+  {
+    "date": "2021-05-07",
+    "price": 0.58113,
+    "market_cap": 75249721643,
+    "total_volume": 19023046812
+  },
+  {
+    "date": "2021-05-08",
+    "price": 0.68184,
+    "market_cap": 88794768977,
+    "total_volume": 31623843002
+  },
+  {
+    "date": "2021-05-09",
+    "price": 0.63362,
+    "market_cap": 82064020248,
+    "total_volume": 29418365423
+  },
+  {
+    "date": "2021-05-10",
+    "price": 0.57314,
+    "market_cap": 74368118240,
+    "total_volume": 49053292485
+  },
+  {
+    "date": "2021-05-11",
+    "price": 0.45113,
+    "market_cap": 58441555673,
+    "total_volume": 17200364811
+  },
+  {
+    "date": "2021-05-12",
+    "price": 0.49673,
+    "market_cap": 64355971521,
+    "total_volume": 15290083251
+  },
+  {
+    "date": "2021-05-13",
+    "price": 0.41519,
+    "market_cap": 53796102921,
+    "total_volume": 10742618800
+  },
+  {
+    "date": "2021-05-14",
+    "price": 0.48894,
+    "market_cap": 63357827990,
+    "total_volume": 20865846833
+  },
+  {
+    "date": "2021-05-15",
+    "price": 0.56485,
+    "market_cap": 73202813078,
+    "total_volume": 21034363818
+  },
+  {
+    "date": "2021-05-16",
+    "price": 0.50679,
+    "market_cap": 65685563368,
+    "total_volume": 10494108535
+  },
+  {
+    "date": "2021-05-17",
+    "price": 0.51532,
+    "market_cap": 66881415608,
+    "total_volume": 9989157880
+  },
+  {
+    "date": "2021-05-18",
+    "price": 0.48515,
+    "market_cap": 62893452096,
+    "total_volume": 8093369123
+  },
+  {
+    "date": "2021-05-19",
+    "price": 0.47898,
+    "market_cap": 62100584439,
+    "total_volume": 5522377790
+  },
+  {
+    "date": "2021-05-20",
+    "price": 0.33874,
+    "market_cap": 43923278363,
+    "total_volume": 15977305882
+  },
+  {
+    "date": "2021-05-21",
+    "price": 0.3978,
+    "market_cap": 51586844260,
+    "total_volume": 13713074556
+  },
+  {
+    "date": "2021-05-22",
+    "price": 0.35233,
+    "market_cap": 45925318262,
+    "total_volume": 8361664796
+  },
+  {
+    "date": "2021-05-23",
+    "price": 0.34309,
+    "market_cap": 44531404176,
+    "total_volume": 6521890070
+  },
+  {
+    "date": "2021-05-24",
+    "price": 0.30923,
+    "market_cap": 40114225403,
+    "total_volume": 8460153799
+  },
+  {
+    "date": "2021-05-25",
+    "price": 0.36307,
+    "market_cap": 47102789102,
+    "total_volume": 8184613093
+  },
+  {
+    "date": "2021-05-26",
+    "price": 0.3449,
+    "market_cap": 44763375248,
+    "total_volume": 6514659543
+  },
+  {
+    "date": "2021-05-27",
+    "price": 0.35416,
+    "market_cap": 45956150665,
+    "total_volume": 4005070154
+  },
+  {
+    "date": "2021-05-28",
+    "price": 0.33381,
+    "market_cap": 43320992018,
+    "total_volume": 3057688715
+  },
+  {
+    "date": "2021-05-29",
+    "price": 0.31146,
+    "market_cap": 40423846903,
+    "total_volume": 4023491238
+  },
+  {
+    "date": "2021-05-30",
+    "price": 0.3027,
+    "market_cap": 39595872238,
+    "total_volume": 3392384686
+  },
+  {
+    "date": "2021-05-31",
+    "price": 0.30143,
+    "market_cap": 39123526701,
+    "total_volume": 2927395692
+  },
+  {
+    "date": "2021-06-01",
+    "price": 0.32653,
+    "market_cap": 42392462477,
+    "total_volume": 2987098923
+  },
+  {
+    "date": "2021-06-02",
+    "price": 0.37324,
+    "market_cap": 48461329054,
+    "total_volume": 6733327602
+  },
+  {
+    "date": "2021-06-03",
+    "price": 0.42739,
+    "market_cap": 55454564159,
+    "total_volume": 12390396038
+  },
+  {
+    "date": "2021-06-04",
+    "price": 0.39801,
+    "market_cap": 51688479012,
+    "total_volume": 7531474357
+  },
+  {
+    "date": "2021-06-05",
+    "price": 0.37771,
+    "market_cap": 49058017296,
+    "total_volume": 6625853842
+  },
+  {
+    "date": "2021-06-06",
+    "price": 0.37291,
+    "market_cap": 48141414070,
+    "total_volume": 4141408440
+  },
+  {
+    "date": "2021-06-07",
+    "price": 0.3725,
+    "market_cap": 48392042544,
+    "total_volume": 2150393720
+  },
+  {
+    "date": "2021-06-08",
+    "price": 0.33308,
+    "market_cap": 43700362808,
+    "total_volume": 3149988271
+  },
+  {
+    "date": "2021-06-09",
+    "price": 0.32744,
+    "market_cap": 42547609072,
+    "total_volume": 4351006876
+  },
+  {
+    "date": "2021-06-10",
+    "price": 0.3445,
+    "market_cap": 44769090935,
+    "total_volume": 3815915048
+  },
+  {
+    "date": "2021-06-11",
+    "price": 0.32943,
+    "market_cap": 42852644186,
+    "total_volume": 2902010287
+  },
+  {
+    "date": "2021-06-12",
+    "price": 0.31706,
+    "market_cap": 41211526346,
+    "total_volume": 2552815813
+  },
+  {
+    "date": "2021-06-13",
+    "price": 0.31307,
+    "market_cap": 40697435028,
+    "total_volume": 2255997607
+  },
+  {
+    "date": "2021-06-14",
+    "price": 0.32504,
+    "market_cap": 42257825962,
+    "total_volume": 1933176774
+  },
+  {
+    "date": "2021-06-15",
+    "price": 0.328,
+    "market_cap": 42647566148,
+    "total_volume": 2303945199
+  },
+  {
+    "date": "2021-06-16",
+    "price": 0.3216,
+    "market_cap": 41819458598,
+    "total_volume": 1827179805
+  },
+  {
+    "date": "2021-06-17",
+    "price": 0.30726,
+    "market_cap": 39959183235,
+    "total_volume": 1849556139
+  },
+  {
+    "date": "2021-06-18",
+    "price": 0.30765,
+    "market_cap": 39833096687,
+    "total_volume": 1374063218
+  },
+  {
+    "date": "2021-06-19",
+    "price": 0.29324,
+    "market_cap": 38143539822,
+    "total_volume": 2225163523
+  },
+  {
+    "date": "2021-06-20",
+    "price": 0.28783,
+    "market_cap": 37500205367,
+    "total_volume": 1435144271
+  },
+  {
+    "date": "2021-06-21",
+    "price": 0.28255,
+    "market_cap": 36753345057,
+    "total_volume": 2397238936
+  },
+  {
+    "date": "2021-06-22",
+    "price": 0.17716,
+    "market_cap": 23329004524,
+    "total_volume": 6017998979
+  },
+  {
+    "date": "2021-06-23",
+    "price": 0.18946,
+    "market_cap": 24507032193,
+    "total_volume": 6153862252
+  },
+  {
+    "date": "2021-06-24",
+    "price": 0.23676,
+    "market_cap": 30785375820,
+    "total_volume": 6409757149
+  },
+  {
+    "date": "2021-06-25",
+    "price": 0.26401,
+    "market_cap": 34365766689,
+    "total_volume": 4350232583
+  },
+  {
+    "date": "2021-06-26",
+    "price": 0.24341,
+    "market_cap": 31689044735,
+    "total_volume": 6643561020
+  },
+  {
+    "date": "2021-06-27",
+    "price": 0.24179,
+    "market_cap": 31477659181,
+    "total_volume": 3495938718
+  },
+  {
+    "date": "2021-06-28",
+    "price": 0.26188,
+    "market_cap": 34096779100,
+    "total_volume": 2743197485
+  },
+  {
+    "date": "2021-06-29",
+    "price": 0.25757,
+    "market_cap": 33435820028,
+    "total_volume": 2479287619
+  },
+  {
+    "date": "2021-06-30",
+    "price": 0.26348,
+    "market_cap": 34483021648,
+    "total_volume": 2762721209
+  },
+  {
+    "date": "2021-07-01",
+    "price": 0.25363,
+    "market_cap": 33047008786,
+    "total_volume": 2571421534
+  },
+  {
+    "date": "2021-07-02",
+    "price": 0.24576,
+    "market_cap": 32039826598,
+    "total_volume": 3268541857
+  },
+  {
+    "date": "2021-07-03",
+    "price": 0.24555,
+    "market_cap": 31898689669,
+    "total_volume": 1889927472
+  },
+  {
+    "date": "2021-07-04",
+    "price": 0.24719,
+    "market_cap": 32206556134,
+    "total_volume": 1227580789
+  },
+  {
+    "date": "2021-07-05",
+    "price": 0.2468,
+    "market_cap": 32158422617,
+    "total_volume": 992614864
+  },
+  {
+    "date": "2021-07-06",
+    "price": 0.23282,
+    "market_cap": 30340231062,
+    "total_volume": 1334518761
+  },
+  {
+    "date": "2021-07-07",
+    "price": 0.23396,
+    "market_cap": 30498108426,
+    "total_volume": 1337006930
+  },
+  {
+    "date": "2021-07-08",
+    "price": 0.22502,
+    "market_cap": 29283224579,
+    "total_volume": 1148728840
+  },
+  {
+    "date": "2021-07-09",
+    "price": 0.20608,
+    "market_cap": 26873301204,
+    "total_volume": 2153838621
+  },
+  {
+    "date": "2021-07-10",
+    "price": 0.21897,
+    "market_cap": 28480856790,
+    "total_volume": 3259713674
+  },
+  {
+    "date": "2021-07-11",
+    "price": 0.21177,
+    "market_cap": 27673709686,
+    "total_volume": 1746924474
+  },
+  {
+    "date": "2021-07-12",
+    "price": 0.21401,
+    "market_cap": 27911022096,
+    "total_volume": 913246174
+  },
+  {
+    "date": "2021-07-13",
+    "price": 0.20776,
+    "market_cap": 27090085304,
+    "total_volume": 1253672403
+  },
+  {
+    "date": "2021-07-14",
+    "price": 0.19775,
+    "market_cap": 25809414653,
+    "total_volume": 1334275683
+  },
+  {
+    "date": "2021-07-15",
+    "price": 0.19714,
+    "market_cap": 25714758614,
+    "total_volume": 1429641639
+  },
+  {
+    "date": "2021-07-16",
+    "price": 0.18276,
+    "market_cap": 24197694492,
+    "total_volume": 1161312534
+  },
+  {
+    "date": "2021-07-17",
+    "price": 0.17483,
+    "market_cap": 22412454428,
+    "total_volume": 1410700420
+  },
+  {
+    "date": "2021-07-18",
+    "price": 0.18368,
+    "market_cap": 23966076761,
+    "total_volume": 2708790554
+  },
+  {
+    "date": "2021-07-19",
+    "price": 0.18429,
+    "market_cap": 24010766980,
+    "total_volume": 1524012212
+  },
+  {
+    "date": "2021-07-20",
+    "price": 0.17289,
+    "market_cap": 22684031984,
+    "total_volume": 1157741992
+  },
+  {
+    "date": "2021-07-21",
+    "price": 0.17297,
+    "market_cap": 22548330103,
+    "total_volume": 1798516247
+  },
+  {
+    "date": "2021-07-22",
+    "price": 0.19159,
+    "market_cap": 24902296662,
+    "total_volume": 3663618236
+  },
+  {
+    "date": "2021-07-23",
+    "price": 0.19165,
+    "market_cap": 24989319857,
+    "total_volume": 1590344694
+  },
+  {
+    "date": "2021-07-24",
+    "price": 0.19361,
+    "market_cap": 25277663412,
+    "total_volume": 1382745729
+  },
+  {
+    "date": "2021-07-25",
+    "price": 0.19825,
+    "market_cap": 25869416922,
+    "total_volume": 1550001044
+  },
+  {
+    "date": "2021-07-26",
+    "price": 0.20233,
+    "market_cap": 26058519149,
+    "total_volume": 1651934670
+  },
+  {
+    "date": "2021-07-27",
+    "price": 0.20603,
+    "market_cap": 26908901181,
+    "total_volume": 4968959293
+  },
+  {
+    "date": "2021-07-28",
+    "price": 0.20454,
+    "market_cap": 26714978976,
+    "total_volume": 1943998807
+  },
+  {
+    "date": "2021-07-29",
+    "price": 0.20843,
+    "market_cap": 27225714557,
+    "total_volume": 2209278393
+  },
+  {
+    "date": "2021-07-30",
+    "price": 0.20861,
+    "market_cap": 27252959174,
+    "total_volume": 1730901237
+  },
+  {
+    "date": "2021-07-31",
+    "price": 0.20623,
+    "market_cap": 26938467544,
+    "total_volume": 1588419179
+  },
+  {
+    "date": "2021-08-01",
+    "price": 0.21309,
+    "market_cap": 27955385438,
+    "total_volume": 2028990907
+  },
+  {
+    "date": "2021-08-02",
+    "price": 0.2068,
+    "market_cap": 26416716627,
+    "total_volume": 1882827394
+  },
+  {
+    "date": "2021-08-03",
+    "price": 0.20387,
+    "market_cap": 26644210985,
+    "total_volume": 1012290886
+  },
+  {
+    "date": "2021-08-04",
+    "price": 0.1965,
+    "market_cap": 25785827888,
+    "total_volume": 1036830115
+  },
+  {
+    "date": "2021-08-05",
+    "price": 0.20165,
+    "market_cap": 26408177704,
+    "total_volume": 962533709
+  },
+  {
+    "date": "2021-08-06",
+    "price": 0.20061,
+    "market_cap": 26330675954,
+    "total_volume": 1109943587
+  },
+  {
+    "date": "2021-08-07",
+    "price": 0.20515,
+    "market_cap": 26821969245,
+    "total_volume": 1213952378
+  },
+  {
+    "date": "2021-08-08",
+    "price": 0.25684,
+    "market_cap": 33550668704,
+    "total_volume": 5055948133
+  },
+  {
+    "date": "2021-08-09",
+    "price": 0.23888,
+    "market_cap": 31238430538,
+    "total_volume": 5671545397
+  },
+  {
+    "date": "2021-08-10",
+    "price": 0.25566,
+    "market_cap": 33056644376,
+    "total_volume": 3847114816
+  },
+  {
+    "date": "2021-08-11",
+    "price": 0.25745,
+    "market_cap": 33601237795,
+    "total_volume": 2974048189
+  },
+  {
+    "date": "2021-08-12",
+    "price": 0.26593,
+    "market_cap": 34808796725,
+    "total_volume": 4170979331
+  },
+  {
+    "date": "2021-08-13",
+    "price": 0.26525,
+    "market_cap": 34729751177,
+    "total_volume": 4540100218
+  },
+  {
+    "date": "2021-08-14",
+    "price": 0.2865,
+    "market_cap": 37271229392,
+    "total_volume": 3060479635
+  },
+  {
+    "date": "2021-08-15",
+    "price": 0.29245,
+    "market_cap": 38430885600,
+    "total_volume": 3761196113
+  },
+  {
+    "date": "2021-08-16",
+    "price": 0.3382,
+    "market_cap": 44252032897,
+    "total_volume": 6519860020
+  },
+  {
+    "date": "2021-08-17",
+    "price": 0.32064,
+    "market_cap": 42269378095,
+    "total_volume": 5527423994
+  },
+  {
+    "date": "2021-08-18",
+    "price": 0.29785,
+    "market_cap": 38987523642,
+    "total_volume": 4619101460
+  },
+  {
+    "date": "2021-08-19",
+    "price": 0.30498,
+    "market_cap": 39924385528,
+    "total_volume": 5030258842
+  },
+  {
+    "date": "2021-08-20",
+    "price": 0.31391,
+    "market_cap": 40377081622,
+    "total_volume": 3314193220
+  },
+  {
+    "date": "2021-08-21",
+    "price": 0.32716,
+    "market_cap": 42757310851,
+    "total_volume": 3003645598
+  },
+  {
+    "date": "2021-08-22",
+    "price": 0.31685,
+    "market_cap": 41491614913,
+    "total_volume": 2219159989
+  },
+  {
+    "date": "2021-08-23",
+    "price": 0.31413,
+    "market_cap": 41187995247,
+    "total_volume": 1919024711
+  },
+  {
+    "date": "2021-08-24",
+    "price": 0.31805,
+    "market_cap": 41698354295,
+    "total_volume": 2493171819
+  },
+  {
+    "date": "2021-08-25",
+    "price": 0.2895,
+    "market_cap": 37922229343,
+    "total_volume": 2760490446
+  },
+  {
+    "date": "2021-08-26",
+    "price": 0.29307,
+    "market_cap": 38396676017,
+    "total_volume": 2155379874
+  },
+  {
+    "date": "2021-08-27",
+    "price": 0.27303,
+    "market_cap": 35773389027,
+    "total_volume": 2079136313
+  },
+  {
+    "date": "2021-08-28",
+    "price": 0.29372,
+    "market_cap": 38550123418,
+    "total_volume": 1989544801
+  },
+  {
+    "date": "2021-08-29",
+    "price": 0.28592,
+    "market_cap": 37470326302,
+    "total_volume": 1313330274
+  },
+  {
+    "date": "2021-08-30",
+    "price": 0.28177,
+    "market_cap": 36883310701,
+    "total_volume": 1282203149
+  },
+  {
+    "date": "2021-08-31",
+    "price": 0.27242,
+    "market_cap": 35462720002,
+    "total_volume": 1568735112
+  },
+  {
+    "date": "2021-09-01",
+    "price": 0.27904,
+    "market_cap": 36566091552,
+    "total_volume": 1560409724
+  },
+  {
+    "date": "2021-09-02",
+    "price": 0.29344,
+    "market_cap": 38342017497,
+    "total_volume": 1738116785
+  },
+  {
+    "date": "2021-09-03",
+    "price": 0.2962,
+    "market_cap": 38819265915,
+    "total_volume": 2699139125
+  },
+  {
+    "date": "2021-09-04",
+    "price": 0.29603,
+    "market_cap": 38818547694,
+    "total_volume": 2081922369
+  },
+  {
+    "date": "2021-09-05",
+    "price": 0.30016,
+    "market_cap": 39363399710,
+    "total_volume": 1964249166
+  },
+  {
+    "date": "2021-09-06",
+    "price": 0.31289,
+    "market_cap": 40951813826,
+    "total_volume": 2082920314
+  },
+  {
+    "date": "2021-09-07",
+    "price": 0.30971,
+    "market_cap": 40624959969,
+    "total_volume": 2245729272
+  },
+  {
+    "date": "2021-09-08",
+    "price": 0.25534,
+    "market_cap": 33371857563,
+    "total_volume": 4813878570
+  },
+  {
+    "date": "2021-09-09",
+    "price": 0.25657,
+    "market_cap": 33662035511,
+    "total_volume": 2760848634
+  },
+  {
+    "date": "2021-09-10",
+    "price": 0.25281,
+    "market_cap": 33171982000,
+    "total_volume": 1529800674
+  },
+  {
+    "date": "2021-09-11",
+    "price": 0.24018,
+    "market_cap": 31486963338,
+    "total_volume": 1562458807
+  },
+  {
+    "date": "2021-09-12",
+    "price": 0.2412,
+    "market_cap": 31643808716,
+    "total_volume": 1006708882
+  },
+  {
+    "date": "2021-09-13",
+    "price": 0.25141,
+    "market_cap": 33147948232,
+    "total_volume": 1276696517
+  },
+  {
+    "date": "2021-09-14",
+    "price": 0.23708,
+    "market_cap": 31092254136,
+    "total_volume": 1596229042
+  },
+  {
+    "date": "2021-09-15",
+    "price": 0.24107,
+    "market_cap": 31648603798,
+    "total_volume": 872222557
+  },
+  {
+    "date": "2021-09-16",
+    "price": 0.24733,
+    "market_cap": 32473677223,
+    "total_volume": 898438546
+  },
+  {
+    "date": "2021-09-17",
+    "price": 0.24258,
+    "market_cap": 31853439636,
+    "total_volume": 1067493820
+  },
+  {
+    "date": "2021-09-18",
+    "price": 0.24094,
+    "market_cap": 31640998451,
+    "total_volume": 1986733762
+  },
+  {
+    "date": "2021-09-19",
+    "price": 0.24189,
+    "market_cap": 31788925028,
+    "total_volume": 912228844
+  },
+  {
+    "date": "2021-09-20",
+    "price": 0.2345,
+    "market_cap": 30802148835,
+    "total_volume": 820705632
+  },
+  {
+    "date": "2021-09-21",
+    "price": 0.20768,
+    "market_cap": 27179947492,
+    "total_volume": 1920244277
+  },
+  {
+    "date": "2021-09-22",
+    "price": 0.19962,
+    "market_cap": 26210995473,
+    "total_volume": 1556838499
+  },
+  {
+    "date": "2021-09-23",
+    "price": 0.22466,
+    "market_cap": 29476367021,
+    "total_volume": 1753590768
+  },
+  {
+    "date": "2021-09-24",
+    "price": 0.22554,
+    "market_cap": 29706605970,
+    "total_volume": 993468486
+  },
+  {
+    "date": "2021-09-25",
+    "price": 0.20912,
+    "market_cap": 27662713843,
+    "total_volume": 1650842494
+  },
+  {
+    "date": "2021-09-26",
+    "price": 0.21037,
+    "market_cap": 27568061035,
+    "total_volume": 941382052
+  },
+  {
+    "date": "2021-09-27",
+    "price": 0.20572,
+    "market_cap": 27453142737,
+    "total_volume": 1069225817
+  },
+  {
+    "date": "2021-09-28",
+    "price": 0.20031,
+    "market_cap": 26298507457,
+    "total_volume": 756949506
+  },
+  {
+    "date": "2021-09-29",
+    "price": 0.19665,
+    "market_cap": 25854555239,
+    "total_volume": 770680217
+  },
+  {
+    "date": "2021-09-30",
+    "price": 0.1996,
+    "market_cap": 26244810644,
+    "total_volume": 793650713
+  },
+  {
+    "date": "2021-10-01",
+    "price": 0.20467,
+    "market_cap": 26892267861,
+    "total_volume": 772968140
+  },
+  {
+    "date": "2021-10-02",
+    "price": 0.22271,
+    "market_cap": 29264176785,
+    "total_volume": 1253107757
+  },
+  {
+    "date": "2021-10-03",
+    "price": 0.21927,
+    "market_cap": 28843582962,
+    "total_volume": 1018419282
+  },
+  {
+    "date": "2021-10-04",
+    "price": 0.22218,
+    "market_cap": 29235159256,
+    "total_volume": 962415745
+  },
+  {
+    "date": "2021-10-05",
+    "price": 0.24322,
+    "market_cap": 32067553483,
+    "total_volume": 3200327908
+  },
+  {
+    "date": "2021-10-06",
+    "price": 0.25169,
+    "market_cap": 33115303228,
+    "total_volume": 4068637354
+  },
+  {
+    "date": "2021-10-07",
+    "price": 0.25255,
+    "market_cap": 33034727303,
+    "total_volume": 4110248359
+  },
+  {
+    "date": "2021-10-08",
+    "price": 0.24344,
+    "market_cap": 32035841670,
+    "total_volume": 2758950037
+  },
+  {
+    "date": "2021-10-09",
+    "price": 0.24297,
+    "market_cap": 32012438945,
+    "total_volume": 1764985515
+  },
+  {
+    "date": "2021-10-10",
+    "price": 0.24716,
+    "market_cap": 32546913547,
+    "total_volume": 1347892633
+  },
+  {
+    "date": "2021-10-11",
+    "price": 0.2293,
+    "market_cap": 30206110262,
+    "total_volume": 1155512151
+  },
+  {
+    "date": "2021-10-12",
+    "price": 0.23196,
+    "market_cap": 30419356234,
+    "total_volume": 1283161881
+  },
+  {
+    "date": "2021-10-13",
+    "price": 0.22635,
+    "market_cap": 29817766316,
+    "total_volume": 1692336319
+  },
+  {
+    "date": "2021-10-14",
+    "price": 0.23276,
+    "market_cap": 30638244804,
+    "total_volume": 1257916343
+  },
+  {
+    "date": "2021-10-15",
+    "price": 0.23298,
+    "market_cap": 30658843961,
+    "total_volume": 1246214724
+  },
+  {
+    "date": "2021-10-16",
+    "price": 0.23504,
+    "market_cap": 30955860407,
+    "total_volume": 1697000571
+  },
+  {
+    "date": "2021-10-17",
+    "price": 0.23856,
+    "market_cap": 31422718667,
+    "total_volume": 1411776663
+  },
+  {
+    "date": "2021-10-18",
+    "price": 0.23794,
+    "market_cap": 31344062761,
+    "total_volume": 1339251268
+  },
+  {
+    "date": "2021-10-19",
+    "price": 0.24612,
+    "market_cap": 32573725269,
+    "total_volume": 4425113299
+  },
+  {
+    "date": "2021-10-20",
+    "price": 0.24655,
+    "market_cap": 32512665553,
+    "total_volume": 1653401803
+  },
+  {
+    "date": "2021-10-21",
+    "price": 0.25452,
+    "market_cap": 33806328665,
+    "total_volume": 1734041308
+  },
+  {
+    "date": "2021-10-22",
+    "price": 0.24353,
+    "market_cap": 32093653209,
+    "total_volume": 1710214523
+  },
+  {
+    "date": "2021-10-23",
+    "price": 0.24643,
+    "market_cap": 32506463987,
+    "total_volume": 1864736299
+  },
+  {
+    "date": "2021-10-24",
+    "price": 0.2515,
+    "market_cap": 33061597043,
+    "total_volume": 1578066916
+  },
+  {
+    "date": "2021-10-25",
+    "price": 0.2783,
+    "market_cap": 36687265385,
+    "total_volume": 4942300324
+  },
+  {
+    "date": "2021-10-26",
+    "price": 0.26501,
+    "market_cap": 34941224252,
+    "total_volume": 3340089767
+  },
+  {
+    "date": "2021-10-27",
+    "price": 0.25678,
+    "market_cap": 33859397597,
+    "total_volume": 2714016376
+  },
+  {
+    "date": "2021-10-28",
+    "price": 0.23917,
+    "market_cap": 31540178380,
+    "total_volume": 4746122253
+  },
+  {
+    "date": "2021-10-29",
+    "price": 0.29958,
+    "market_cap": 39511206991,
+    "total_volume": 18011898078
+  },
+  {
+    "date": "2021-10-30",
+    "price": 0.28881,
+    "market_cap": 38184788655,
+    "total_volume": 5883306861
+  },
+  {
+    "date": "2021-10-31",
+    "price": 0.2683,
+    "market_cap": 35341200121,
+    "total_volume": 3599197250
+  },
+  {
+    "date": "2021-11-01",
+    "price": 0.27977,
+    "market_cap": 36909621915,
+    "total_volume": 4382941811
+  },
+  {
+    "date": "2021-11-02",
+    "price": 0.27208,
+    "market_cap": 35921018083,
+    "total_volume": 2938224696
+  },
+  {
+    "date": "2021-11-03",
+    "price": 0.27388,
+    "market_cap": 36049337832,
+    "total_volume": 2448991837
+  },
+  {
+    "date": "2021-11-04",
+    "price": 0.26969,
+    "market_cap": 35494937229,
+    "total_volume": 2283948676
+  },
+  {
+    "date": "2021-11-05",
+    "price": 0.26361,
+    "market_cap": 34522303123,
+    "total_volume": 1890709185
+  },
+  {
+    "date": "2021-11-06",
+    "price": 0.26181,
+    "market_cap": 34507961356,
+    "total_volume": 1653890893
+  },
+  {
+    "date": "2021-11-07",
+    "price": 0.26251,
+    "market_cap": 34667024254,
+    "total_volume": 1589126693
+  },
+  {
+    "date": "2021-11-08",
+    "price": 0.26659,
+    "market_cap": 35265876568,
+    "total_volume": 1309857042
+  },
+  {
+    "date": "2021-11-09",
+    "price": 0.28227,
+    "market_cap": 37320250692,
+    "total_volume": 3923628087
+  },
+  {
+    "date": "2021-11-10",
+    "price": 0.27416,
+    "market_cap": 36274785710,
+    "total_volume": 2342348652
+  },
+  {
+    "date": "2021-11-11",
+    "price": 0.25573,
+    "market_cap": 33523008508,
+    "total_volume": 2821821733
+  },
+  {
+    "date": "2021-11-12",
+    "price": 0.2614,
+    "market_cap": 34629265046,
+    "total_volume": 1818556218
+  },
+  {
+    "date": "2021-11-13",
+    "price": 0.25935,
+    "market_cap": 34255307730,
+    "total_volume": 1686591915
+  },
+  {
+    "date": "2021-11-14",
+    "price": 0.26244,
+    "market_cap": 34667769849,
+    "total_volume": 1344220250
+  },
+  {
+    "date": "2021-11-15",
+    "price": 0.26447,
+    "market_cap": 34939809035,
+    "total_volume": 1614387238
+  },
+  {
+    "date": "2021-11-16",
+    "price": 0.258,
+    "market_cap": 34088301573,
+    "total_volume": 1025389485
+  },
+  {
+    "date": "2021-11-17",
+    "price": 0.23878,
+    "market_cap": 31552704883,
+    "total_volume": 2041858402
+  },
+  {
+    "date": "2021-11-18",
+    "price": 0.23887,
+    "market_cap": 31574976729,
+    "total_volume": 1412685827
+  },
+  {
+    "date": "2021-11-19",
+    "price": 0.22168,
+    "market_cap": 29299038497,
+    "total_volume": 1731616054
+  },
+  {
+    "date": "2021-11-20",
+    "price": 0.23426,
+    "market_cap": 30964779016,
+    "total_volume": 1333859590
+  },
+  {
+    "date": "2021-11-21",
+    "price": 0.23466,
+    "market_cap": 31021026022,
+    "total_volume": 934351229
+  },
+  {
+    "date": "2021-11-22",
+    "price": 0.22867,
+    "market_cap": 30345535042,
+    "total_volume": 919422181
+  },
+  {
+    "date": "2021-11-23",
+    "price": 0.22022,
+    "market_cap": 29089986846,
+    "total_volume": 1071295453
+  },
+  {
+    "date": "2021-11-24",
+    "price": 0.22656,
+    "market_cap": 29958889793,
+    "total_volume": 1769899579
+  },
+  {
+    "date": "2021-11-25",
+    "price": 0.21828,
+    "market_cap": 28878915784,
+    "total_volume": 1252623948
+  },
+  {
+    "date": "2021-11-26",
+    "price": 0.22161,
+    "market_cap": 29310587671,
+    "total_volume": 1199279937
+  },
+  {
+    "date": "2021-11-27",
+    "price": 0.20242,
+    "market_cap": 26775845330,
+    "total_volume": 2369326533
+  },
+  {
+    "date": "2021-11-28",
+    "price": 0.20438,
+    "market_cap": 26984855765,
+    "total_volume": 1226693533
+  },
+  {
+    "date": "2021-11-29",
+    "price": 0.20753,
+    "market_cap": 27457594550,
+    "total_volume": 1316180058
+  },
+  {
+    "date": "2021-11-30",
+    "price": 0.21524,
+    "market_cap": 28521528060,
+    "total_volume": 1884339529
+  },
+  {
+    "date": "2021-12-01",
+    "price": 0.21498,
+    "market_cap": 28448975743,
+    "total_volume": 1703432997
+  },
+  {
+    "date": "2021-12-02",
+    "price": 0.20949,
+    "market_cap": 27724567903,
+    "total_volume": 918544485
+  },
+  {
+    "date": "2021-12-03",
+    "price": 0.20973,
+    "market_cap": 27757626765,
+    "total_volume": 1915107775
+  },
+  {
+    "date": "2021-12-04",
+    "price": 0.20126,
+    "market_cap": 26624094017,
+    "total_volume": 1308763626
+  },
+  {
+    "date": "2021-12-05",
+    "price": 0.17899,
+    "market_cap": 23761598360,
+    "total_volume": 3753914609
+  },
+  {
+    "date": "2021-12-06",
+    "price": 0.17137,
+    "market_cap": 22688750945,
+    "total_volume": 1438723427
+  },
+  {
+    "date": "2021-12-07",
+    "price": 0.17828,
+    "market_cap": 23606751297,
+    "total_volume": 1840846269
+  },
+  {
+    "date": "2021-12-08",
+    "price": 0.17716,
+    "market_cap": 23471280982,
+    "total_volume": 1119995690
+  },
+  {
+    "date": "2021-12-09",
+    "price": 0.17914,
+    "market_cap": 23725166634,
+    "total_volume": 1015213141
+  },
+  {
+    "date": "2021-12-10",
+    "price": 0.1707,
+    "market_cap": 22610118287,
+    "total_volume": 936589839
+  },
+  {
+    "date": "2021-12-11",
+    "price": 0.16533,
+    "market_cap": 21900883983,
+    "total_volume": 780125454
+  },
+  {
+    "date": "2021-12-12",
+    "price": 0.16892,
+    "market_cap": 22378284973,
+    "total_volume": 756913416
+  },
+  {
+    "date": "2021-12-13",
+    "price": 0.16991,
+    "market_cap": 22512231326,
+    "total_volume": 643576077
+  },
+  {
+    "date": "2021-12-14",
+    "price": 0.15772,
+    "market_cap": 20939287872,
+    "total_volume": 901190677
+  },
+  {
+    "date": "2021-12-15",
+    "price": 0.19122,
+    "market_cap": 25340873990,
+    "total_volume": 5997692276
+  }
+]

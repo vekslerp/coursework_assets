@@ -1,0 +1,122 @@
+[
+  {
+    "Balance": "(0 - 0.001)",
+    "Addresses": 297156,
+    "Addresses_Percents": 6.38,
+    "Coins": 3.67,
+    "USD": 0.683,
+    "Coins_Percents": 0
+  },
+  {
+    "Balance": "(0.001 - 0.01)",
+    "Addresses": 8008,
+    "Addresses_Percents": 0.17,
+    "Coins": 35.69,
+    "USD": 6.64,
+    "Coins_Percents": 0
+  },
+  {
+    "Balance": "(0.01 - 0.1)",
+    "Addresses": 39654,
+    "Addresses_Percents": 0.85,
+    "Coins": 1617,
+    "USD": 300.87,
+    "Coins_Percents": 0
+  },
+  {
+    "Balance": "(0.1 - 1)",
+    "Addresses": 81021,
+    "Addresses_Percents": 1.74,
+    "Coins": 39693,
+    "USD": 7386,
+    "Coins_Percents": 0
+  },
+  {
+    "Balance": "(1 - 10)",
+    "Addresses": 1086636,
+    "Addresses_Percents": 23.32,
+    "Coins": 3602425,
+    "USD": 670375,
+    "Coins_Percents": 0
+  },
+  {
+    "Balance": "(10 - 100)",
+    "Addresses": 879383,
+    "Addresses_Percents": 18.87,
+    "Coins": 38576630,
+    "USD": 7178726,
+    "Coins_Percents": 0.03
+  },
+  {
+    "Balance": "(100 - 1,000)",
+    "Addresses": 1238386,
+    "Addresses_Percents": 26.57,
+    "Coins": 460611942,
+    "USD": 85715285,
+    "Coins_Percents": 0.35
+  },
+  {
+    "Balance": "(1,000 - 10,000)",
+    "Addresses": 740477,
+    "Addresses_Percents": 15.89,
+    "Coins": 2404247752,
+    "USD": 447406509,
+    "Coins_Percents": 1.81
+  },
+  {
+    "Balance": "(10,000 - 100,000)",
+    "Addresses": 251057,
+    "Addresses_Percents": 5.39,
+    "Coins": 6840247710,
+    "USD": 1272901825,
+    "Coins_Percents": 5.16
+  },
+  {
+    "Balance": "(100,000 - 1,000,000)",
+    "Addresses": 33620,
+    "Addresses_Percents": 0.72,
+    "Coins": 8857894088,
+    "USD": 1648365677,
+    "Coins_Percents": 6.68
+  },
+  {
+    "Balance": "(1,000,000 - 10,000,000)",
+    "Addresses": 4231,
+    "Addresses_Percents": 0.09,
+    "Coins": 10924372721,
+    "USD": 2032916725,
+    "Coins_Percents": 8.24
+  },
+  {
+    "Balance": "(10,000,000 - 100,000,000)",
+    "Addresses": 696,
+    "Addresses_Percents": 0.01,
+    "Coins": 20993084509,
+    "USD": 3906603491,
+    "Coins_Percents": 15.84
+  },
+  {
+    "Balance": "(100,000,000 - 1,000,000,000)",
+    "Addresses": 75,
+    "Addresses_Percents": 0,
+    "Coins": 20678461613,
+    "USD": 3848055310,
+    "Coins_Percents": 15.6
+  },
+  {
+    "Balance": "(1,000,000,000 - 10,000,000,000)",
+    "Addresses": 14,
+    "Addresses_Percents": 0,
+    "Coins": 30359784383,
+    "USD": 5649652846,
+    "Coins_Percents": 22.91
+  },
+  {
+    "Balance": "(10,000,000,000 - 100,000,000,000)",
+    "Addresses": 1,
+    "Addresses_Percents": 0,
+    "Coins": 30984599232,
+    "USD": 5765924653,
+    "Coins_Percents": 23.38
+  }
+]
